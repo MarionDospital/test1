@@ -6,6 +6,7 @@ import java.util.Random;
  * 
  * @author Group 14
  * @version 27/10/2023
+ * @clemclelm
  */
 public class Robot {
     public static final int MIN_NAME_LENGTH = 3;
